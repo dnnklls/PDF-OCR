@@ -1,17 +1,15 @@
-Absolutely! Below is a template for an informative README for your ticket processing system project on GitHub. Feel free to modify and expand upon this template to better fit the specifics of your project.
 
----
 
-# Ticket Processing System
+# PDF-OCR
 
 ## Project Description
-This Ticket Processing System is a Python-based tool designed to automate the handling of event ticket data. It efficiently converts ticket PDFs into images, utilizes Optical Character Recognition (OCR) to read text, and scans for barcodes/QR codes. The system extracts essential ticket information and saves it in both JSON and CSV formats, facilitating easy data management and analysis.
+This Ticket Processing System is a Python-based tool designed to automate the handling of event data. It efficiently converts ticket PDFs into images, utilizes Optical Character Recognition (OCR) to read text, and scans for barcodes/QR codes. The system extracts essential ticket information and saves it in both JSON and CSV formats, facilitating easy data management and analysis.
 
 ## Features
-- **PDF to Image Conversion**: Converts ticket PDFs into image files for processing.
+- **PDF to Image Conversion**: Converts PDFs into image files for processing.
 - **OCR Functionality**: Extracts text data from images using Tesseract OCR.
 - **Barcode and QR Code Scanning**: Identifies and decodes barcode information.
-- **Data Extraction**: Retrieves specific information from ticket data, such as name, order number, and seat details.
+- **Data Extraction**: Retrieves specific information from data, such as name, order number, and seat details.
 - **Data Storage**: Saves extracted data in JSON and CSV formats for further use.
 
 ## Getting Started
@@ -26,7 +24,7 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the Repository**
    ```bash
-   git clone <your-repository-link>
+   git clone PDF-OCR
    ```
 2. **Navigate to the Project Directory**
    ```bash
