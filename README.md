@@ -3,7 +3,7 @@
 # PDF-OCR
 
 ## Project Description
-This Ticket Processing System is a Python-based tool designed to automate the handling of event data. It efficiently converts ticket PDFs into images, utilizes Optical Character Recognition (OCR) to read text, and scans for barcodes/QR codes. The system extracts essential ticket information and saves it in both JSON and CSV formats, facilitating easy data management and analysis.
+This Processing System is a Python-based tool designed to automate the handling of event data. It efficiently converts ticket PDFs into images, utilizes Optical Character Recognition (OCR) to read text, and scans for barcodes/QR codes. The system extracts essential ticket information and saves it in both JSON and CSV formats, facilitating easy data management and analysis.
 
 ## Features
 - **PDF to Image Conversion**: Converts PDFs into image files for processing.
